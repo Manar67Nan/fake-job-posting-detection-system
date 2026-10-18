@@ -12,8 +12,9 @@ from backend.utils import load_models
 print("USING backend/main.py")
 
 BASE_DIR = os.path.dirname(__file__)
-FRONTEND_PATH = os.path.join(BASE_DIR, "frontend.html")
-
+FRONTEND_PATH = os.path.abspath(
+    os.path.join(BASE_DIR, "..", "frontend", "frontend.html")
+)
 app = FastAPI(title="Fake Job Post Detection API")
 
 app.add_middleware(
