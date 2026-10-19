@@ -1,5 +1,6 @@
 # Fake Job Posting Detection System (FJPD)
 Project Preview
+![FJPD Homepage](homepage.png)
 
 
 
