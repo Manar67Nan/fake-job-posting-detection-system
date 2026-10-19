@@ -120,7 +120,7 @@ fake-job-posting-detection-system/
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/Manar67Nan/fake-job-posting-detection-system.git
    ```
 
 2. Navigate to the project directory:
