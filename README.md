@@ -157,9 +157,6 @@ fake-job-posting-detection-system/
 
 The goal of this project is to explore how machine learning and Natural Language Processing can help identify suspicious job advertisements and support safer online job searching.
 
-## Academic Project
-
-Developed as a senior project to demonstrate practical skills in machine learning, text processing, backend development, database management, and web application design.
 
 ## Disclaimer
 
