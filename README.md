@@ -1,10 +1,19 @@
 # Fake Job Posting Detection System (FJPD)
-Project Preview
+## Project Preview
+
+### Homepage
+
 ![FJPD Homepage](homepage.png)
 
+[Live Demo](https://fakejobpostingdetector.com/)
 
+### Fake Job Detection Result
 
-Live Demo: https://fakejobpostingdetector.com/
+![Fake Job Detection Result](fake-job-detection-result.png)
+
+### Job Analysis Interface
+
+![Job Analysis Interface](analysis-interface.png)
 
 FJPD is a machine learning-powered web application that analyzes job postings and classifies them as potentially real or fraudulent using Natural Language Processing (NLP) and text classification.
 
