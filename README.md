@@ -132,7 +132,7 @@ fake-job-posting-detection-system/
 3. Install the required dependencies using the location of `requirements.txt` in the repository:
 
    ```bash
-   pip install -r SETUP/requirements.txt
+   pip install -r PREREQUISITES/requirements.txt
    ```
 
 4. Navigate to the source directory:
