@@ -101,8 +101,6 @@ The goal of this project is to explore how machine learning and NLP can help ide
 
 Developed as a senior project to demonstrate practical skills in machine learning, text processing, backend development, and web application design.
 
-## Project Purpose
-The goal of this project is to explore how machine learning and NLP can help identify suspicious job advertisements and support safer online job searching.
 
 ## Academic Project
 Developed as a senior project to demonstrate practical skills in machine learning, text processing, and web application development.
